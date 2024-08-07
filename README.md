@@ -2,6 +2,9 @@
 
 The Health Dashboard and Quiz Application is a comprehensive web application designed to enhance users' health and wellness knowledge. It provides a health quiz, personalized recommendations, news articles, and educational videos. This application is aimed at users who want to track their health knowledge, receive relevant health tips, and stay updated with the latest health news and video content.
 
+## Preview
+
+Visit [Live Server](http://127.0.0.1:5500/index.html) and take a look at the website.
 ## Features
 ### Health Quiz:
 
