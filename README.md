@@ -51,10 +51,7 @@ Usage: Used to display a pie chart based on users' quiz answers, showing a visua
 
 Role: Provides a way to store user data on the client side.
 Usage: Used to save user responses to the quiz, account details, and session information.
-#### JSON:
 
-Role: Formats data for storage and retrieval.
-Usage: Used for storing user data and quiz results in a structured format.
 ## How to Use
 ### Getting Started
 #### Clone the Repository:
