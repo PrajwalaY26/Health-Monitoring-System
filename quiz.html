@@ -228,18 +228,6 @@
             if (protein === 'chicken') score++;
             if (sleep === '8') score++;
             
-            // Save quiz results
-            const userData = JSON.parse(localStorage.getItem(loggedInUser));
-            userData.healthData = {
-                veggies: veggies,
-                fat: fat,
-                water: water,
-                protein: protein,
-                sleep: sleep,
-                score: score
-            };
-            localStorage.setItem(loggedInUser, JSON.stringify(userData));
-            
             // Display result
             const resultDiv = document.getElementById('quiz-result');
             const scoreDiv = document.getElementById('score');
