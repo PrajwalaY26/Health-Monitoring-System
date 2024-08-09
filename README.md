@@ -5,6 +5,9 @@ The Health Dashboard and Quiz Application is a comprehensive web application des
 ## Preview
 
 Visit [Live Server](http://127.0.0.1:5500/index.html) and take a look at the website.
+
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/4d483126-48e7-4e1a-b9bb-05960ae3c1fb"> 
+
 ## Features
 ### Health Quiz:
 
